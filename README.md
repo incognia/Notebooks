@@ -1,6 +1,6 @@
-# Notebooks of Learn Python with Jupyter
+# Notebooks de Learn Python with Jupyter (Aprende Python con Jupyter)
 
-In this repository, you can find all the Notebooks from the book [Learn Python with Jupyter](https://learnpythonwithjupyter.com). 
+En este repositorio puedes encontrar todos las *notebooks* traducidas al español del libro [Learn Python with Jupyter](https://learnpythonwithjupyter.com). 
 
-## How to download the notebooks 
-Click the green button `< > Code` at the top-right of this page. Then, click on `Download ZIP`
+## Cómo descargar las notebooks 
+Haz clic en el botón verde `< > Code` en la parte superior derecha de esta página. Luego, haz clic en `Download ZIP`
