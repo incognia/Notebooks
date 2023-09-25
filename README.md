@@ -7,7 +7,7 @@ Haz clic en el botón verde `< > Code` en la parte superior derecha de esta pág
 
 ## Cuadernos traducidos
 
-Progreso 13/21 ![62%](https://progress-bar.dev/62)
+Progreso de la traducción 13/21 ![62%](https://progress-bar.dev/62)
 
 ### PARTE 1: CREANDO LOS FUNDAMENTOS
 - [x] [Texto, preguntas y arte](01_string_input_print.ipynb)
@@ -41,3 +41,27 @@ Progreso 13/21 ![62%](https://progress-bar.dev/62)
 
 ### PARTE 6: RESUMEN DE LAS LISTAS Y EL BUCLE FOR
 - [ ] [Recap of lists](21_list_recap.ipynb)
+- [ ] For loop possibilities
+- [ ] Lists of lists
+
+### PARTE 7: DICCIONARIOS Y RESUMEN DE CADENAS
+- [ ] Inventory at the bookstore
+- [ ] Trip to Switzerland
+- [ ] Counting, compressing, and sorting
+
+PARTE 8: FUNCIONES
+- [ ] Stationary for a party
+- [ ] Username and password
+- [ ] People's age and odd numbers
+- [ ] Factorials
+- [ ] Jupyter notebooks and modules
+
+PARTE 9: VARIOS
+- [ ] Online shopping
+- [ ] Final Python tricks
+
+PARTE 10: PROGRAMACIÓN ORIENTADA A OBJETOS
+- [ ] I need a bank account!
+- [ ] Improving a bank account
+- [ ] What if I need a checking account?
+- [ ] I also need a savings account
