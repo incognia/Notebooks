@@ -7,7 +7,9 @@ Haz clic en el botón verde `< > Code` en la parte superior derecha de esta pág
 
 ## Cuadernos traducidos
 
-Progreso de la traducción 13/21 ![62%](https://progress-bar.dev/62)
+![58%](https://progress-bar.dev/58) Progreso del libro 21/38 
+
+![34%](https://progress-bar.dev/34) Progreso de la traducción 13/38 (21 liberados) 
 
 ### PARTE 1: CREANDO LOS FUNDAMENTOS
 - [x] [Texto, preguntas y arte](01_string_input_print.ipynb)
