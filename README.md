@@ -9,41 +9,35 @@ Haz clic en el botón verde `< > Code` en la parte superior derecha de esta pág
 
 Progreso 13/21 ![62%](https://progress-bar.dev/62)
 
-### PART 1: CREATING THE BASICS
-
+### PARTE 1: CREANDO LOS FUNDAMENTOS
 - [x] 01_string_input_print.ipynb
 - [x] 02_variables.ipynb
 
-### PART 2: INTRODUCTION TO LISTS AND IF/ELSE STATEMENTS
-
+### PARTE 2: INTRODUCCIÓN A LAS LISTAS Y LAS SENTENCIAS IF/ELSE
 - [x] 03_list_if_in_else.ipynb
 - [x] 04_list_append_remove.ipynb
 - [x] 05_list_index_pop_insert.ipynb
 - [x] 06_list_slicing.ipynb
 - [x] 07_list_slicing_use.ipynb
 
-### PART 3: INTRODUCTION TO THE FOR LOOP
-
+### PARTE 3: INTRODUCCIÓN AL BUCLE FOR
 - [x] 08_for_range.ipynb
 - [x] 09_for_loop_if_equals.ipynb
 - [x] 10_for_search.ipynb
 - [x] 11_for_change_list.ipynb
 - [x] 12_for_create_list.ipynb
 
-### PART 4: NUMBERS AND ALGORITHMS
-
+### PARTE 4: NÚMEROS Y ALGORITMOS
 - [x] 13_numbers.ipynb
 - [ ] 14_list_of_numbers.ipynb
 - [ ] 15_random.ipynb
 - [ ] 16_intro_to_algos.ipynb
 
-### PART 5: THE WHILE LOOP AND CONDITIONS
-
+### PARTE 5: EL BUCLE WHILE Y LAS CONDICIONES
 - [ ] 17_while_loop.ipynb
 - [ ] 18_while_conditions.ipynb
 - [ ] 19_combining_conditions.ipynb
 - [ ] 20_booleans.ipynb
 
-### PART 6: RECAP OF LISTS AND FOR LOOP
-
+### PARTE 6: RESUMEN DE LAS LISTAS Y EL BUCLE FOR
 - [ ] 21_list_recap.ipynb
