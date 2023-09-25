@@ -4,3 +4,7 @@ En este repositorio puedes encontrar todas los cuadernos (notebooks) del libro [
 
 ## Cómo descargar los cuadernos 
 Haz clic en el botón verde `< > Code` en la parte superior derecha de esta página. Luego, haz clic en `Download ZIP`
+
+## Cuadernos traducidos
+
+Progreso 13/21 ![62%](https://progress-bar.dev/62)
