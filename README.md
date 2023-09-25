@@ -10,25 +10,25 @@ Haz clic en el botón verde `< > Code` en la parte superior derecha de esta pág
 Progreso 13/21 ![62%](https://progress-bar.dev/62)
 
 ### PARTE 1: CREANDO LOS FUNDAMENTOS
-- [x] 01_string_input_print.ipynb
-- [x] 02_variables.ipynb
+- [x] [Texto, preguntas y arte](01_string_input_print.ipynb)
+- [x] [Eventos y favoritos](02_variables.ipynb)
 
 ### PARTE 2: INTRODUCCIÓN A LAS LISTAS Y LAS SENTENCIAS IF/ELSE
-- [x] 03_list_if_in_else.ipynb
-- [x] 04_list_append_remove.ipynb
-- [x] 05_list_index_pop_insert.ipynb
-- [x] 06_list_slicing.ipynb
-- [x] 07_list_slicing_use.ipynb
+- [x] [En una librería](03_list_if_in_else.ipynb)
+- [x] [Compras de alimentos](04_list_append_remove.ipynb)
+- [x] [Personalizando el menú](05_list_index_pop_insert.ipynb)
+- [x] [Viajando por todo el mundo](06_list_slicing.ipynb)
+- [x] [Sentidos, planetas y una casa](07_list_slicing_use.ipynb)
 
 ### PARTE 3: INTRODUCCIÓN AL BUCLE FOR
-- [x] 08_for_range.ipynb
-- [x] 09_for_loop_if_equals.ipynb
-- [x] 10_for_search.ipynb
-- [x] 11_for_change_list.ipynb
-- [x] 12_for_create_list.ipynb
+- [x] [Los platillos favoritos de mis amigos](08_for_range.ipynb)
+- [x] [En el zoológico](09_for_loop_if_equals.ipynb)
+- [x] [¿Dónde están mis guantes?](10_for_search.ipynb)
+- [x] [Limpiando la lista de correo](11_for_change_list.ipynb)
+- [x] [¡Qué desorden en la librería!](12_for_create_list.ipynb)
 
 ### PARTE 4: NÚMEROS Y ALGORITMOS
-- [x] 13_numbers.ipynb
+- [x] [Implementando una calculadora](13_numbers.ipynb)
 - [ ] 14_list_of_numbers.ipynb
 - [ ] 15_random.ipynb
 - [ ] 16_intro_to_algos.ipynb
