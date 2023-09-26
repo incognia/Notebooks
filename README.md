@@ -51,18 +51,18 @@ Haz clic en el botón verde `< > Code` en la parte superior derecha de esta pág
 - [ ] Trip to Switzerland
 - [ ] Counting, compressing, and sorting
 
-PARTE 8: FUNCIONES
+### PARTE 8: FUNCIONES
 - [ ] Stationary for a party
 - [ ] Username and password
 - [ ] People's age and odd numbers
 - [ ] Factorials
 - [ ] Jupyter notebooks and modules
 
-PARTE 9: VARIOS
+### PARTE 9: VARIOS
 - [ ] Online shopping
 - [ ] Final Python tricks
 
-PARTE 10: PROGRAMACIÓN ORIENTADA A OBJETOS
+### PARTE 10: PROGRAMACIÓN ORIENTADA A OBJETOS
 - [ ] I need a bank account!
 - [ ] Improving a bank account
 - [ ] What if I need a checking account?
