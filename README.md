@@ -9,7 +9,7 @@ Haz clic en el botón verde `< > Code` en la parte superior derecha de esta pág
 
 ![58%](https://progress-bar.dev/58) Progreso del libro 21/38 
 
-![50%](https://progress-bar.dev/50) Progreso de la traducción 19/38 (21 liberados) 
+![53%](https://progress-bar.dev/53) Progreso de la traducción 20/38 (21 liberados) 
 
 ### PARTE 1: CREANDO LOS FUNDAMENTOS
 - [x] [Texto, preguntas y arte](01_string_input_print.ipynb)
@@ -39,7 +39,7 @@ Haz clic en el botón verde `< > Code` en la parte superior derecha de esta pág
 - [x] [¿Quieres más dulces?](17_while_loop.ipynb)
 - [x] [Animales, números únicos y suma](18_while_conditions.ipynb)
 - [x] [And, or, not, not in](19_combining_conditions.ipynb)
-- [ ] [What's behind comparisons and conditions?](20_booleans.ipynb)
+- [x] [¿Qué hay detrás de las comparaciones y condiciones?](20_booleans.ipynb)
 
 ### PARTE 6: RESUMEN DE LAS LISTAS Y EL BUCLE FOR
 - [ ] [Recap of lists](21_list_recap.ipynb)
