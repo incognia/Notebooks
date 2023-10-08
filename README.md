@@ -9,7 +9,7 @@ Haz clic en el botón verde `< > Code` en la parte superior derecha de esta pág
 
 ![58%](https://progress-bar.dev/58) Progreso del libro 21/38 
 
-![45%](https://progress-bar.dev/45) Progreso de la traducción 17/38 (21 liberados) 
+![47%](https://progress-bar.dev/47) Progreso de la traducción 18/38 (21 liberados) 
 
 ### PARTE 1: CREANDO LOS FUNDAMENTOS
 - [x] [Texto, preguntas y arte](01_string_input_print.ipynb)
@@ -36,8 +36,8 @@ Haz clic en el botón verde `< > Code` en la parte superior derecha de esta pág
 - [x] [Piedra, papel, tijeras](16_intro_to_algos.ipynb)
 
 ### PARTE 5: EL BUCLE WHILE Y LAS CONDICIONES
-- [X] [¿Quieres más dulces?](17_while_loop.ipynb)
-- [ ] [Animals, unique numbers, and sum](18_while_conditions.ipynb)
+- [x] [¿Quieres más dulces?](17_while_loop.ipynb)
+- [x] [Animales, números únicos y suma](18_while_conditions.ipynb)
 - [ ] [And, or, not, not in](19_combining_conditions.ipynb)
 - [ ] [What's behind comparisons and conditions?](20_booleans.ipynb)
 
