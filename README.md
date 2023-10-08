@@ -9,7 +9,7 @@ Haz clic en el botón verde `< > Code` en la parte superior derecha de esta pág
 
 ![58%](https://progress-bar.dev/58) Progreso del libro 21/38 
 
-![53%](https://progress-bar.dev/53) Progreso de la traducción 20/38 (21 liberados) 
+![58%](https://progress-bar.dev/58) Progreso de la traducción 21/38 (21 liberados) 
 
 ### PARTE 1: CREANDO LOS FUNDAMENTOS
 - [x] [Texto, preguntas y arte](01_string_input_print.ipynb)
@@ -42,7 +42,7 @@ Haz clic en el botón verde `< > Code` en la parte superior derecha de esta pág
 - [x] [¿Qué hay detrás de las comparaciones y condiciones?](20_booleans.ipynb)
 
 ### PARTE 6: RESUMEN DE LAS LISTAS Y EL BUCLE FOR
-- [ ] [Recap of lists](21_list_recap.ipynb)
+- [x] [Repaso de listas](21_list_recap.ipynb)
 - [ ] For loop possibilities
 - [ ] Lists of lists
 
