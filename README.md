@@ -31,12 +31,12 @@ Haz clic en el botón verde `< > Code` en la parte superior derecha de esta pág
 
 ### PARTE 4: NÚMEROS Y ALGORITMOS
 - [x] [Implementando una calculadora](13_numbers.ipynb)
-- [x] [Playing with numbers](14_list_of_numbers.ipynb)
-- [x] [Fortune cookies](15_random.ipynb)
-- [x] [Rock, paper, scissors](16_intro_to_algos.ipynb)
+- [x] [Jugando con números](14_list_of_numbers.ipynb)
+- [x] [Galletas de la suerte](15_random.ipynb)
+- [x] [Piedra, papel, tijeras](16_intro_to_algos.ipynb)
 
 ### PARTE 5: EL BUCLE WHILE Y LAS CONDICIONES
-- [X] [Do you want more candies?](17_while_loop.ipynb)
+- [X] [¿Quieres más dulces?](17_while_loop.ipynb)
 - [ ] [Animals, unique numbers, and sum](18_while_conditions.ipynb)
 - [ ] [And, or, not, not in](19_combining_conditions.ipynb)
 - [ ] [What's behind comparisons and conditions?](20_booleans.ipynb)
