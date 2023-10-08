@@ -9,7 +9,7 @@ Haz clic en el botón verde `< > Code` en la parte superior derecha de esta pág
 
 ![58%](https://progress-bar.dev/58) Progreso del libro 21/38 
 
-![34%](https://progress-bar.dev/34) Progreso de la traducción 13/38 (21 liberados) 
+![42%](https://progress-bar.dev/42) Progreso de la traducción 16/38 (21 liberados) 
 
 ### PARTE 1: CREANDO LOS FUNDAMENTOS
 - [x] [Texto, preguntas y arte](01_string_input_print.ipynb)
@@ -31,9 +31,9 @@ Haz clic en el botón verde `< > Code` en la parte superior derecha de esta pág
 
 ### PARTE 4: NÚMEROS Y ALGORITMOS
 - [x] [Implementando una calculadora](13_numbers.ipynb)
-- [ ] [Playing with numbers](14_list_of_numbers.ipynb)
-- [ ] [Fortune cookies](15_random.ipynb)
-- [ ] [Rock, paper, scissors](16_intro_to_algos.ipynb)
+- [x] [Playing with numbers](14_list_of_numbers.ipynb)
+- [x] [Fortune cookies](15_random.ipynb)
+- [x] [Rock, paper, scissors](16_intro_to_algos.ipynb)
 
 ### PARTE 5: EL BUCLE WHILE Y LAS CONDICIONES
 - [ ] [Do you want more candies?](17_while_loop.ipynb)
