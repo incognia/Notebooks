@@ -7,9 +7,9 @@ Haz clic en el botón verde `< > Code` en la parte superior derecha de esta pág
 
 ## Cuadernos traducidos
 
-![58%](https://progress-bar.dev/58) Progreso del libro 21/38 
+![60%](https://progress-bar.dev/60) Progreso del libro 22/38 
 
-![58%](https://progress-bar.dev/58) Progreso de la traducción 21/38 (21 liberados) 
+![60%](https://progress-bar.dev/60) Progreso de la traducción 22/38 
 
 ### PARTE 1: CREANDO LOS FUNDAMENTOS
 - [x] [Texto, preguntas y arte](01_string_input_print.ipynb)
@@ -41,9 +41,9 @@ Haz clic en el botón verde `< > Code` en la parte superior derecha de esta pág
 - [x] [And, or, not, not in](19_combining_conditions.ipynb)
 - [x] [¿Qué hay detrás de las comparaciones y condiciones?](20_booleans.ipynb)
 
-### PARTE 6: RESUMEN DE LAS LISTAS Y EL BUCLE FOR
-- [x] [Repaso de listas](21_list_recap.ipynb)
-- [ ] For loop possibilities
+### PARTE 6: ENFOQUE EN LAS LISTAS Y EL BUCLE FOR
+- [x] [Visión general de las listas](21_list_overview.ipynb)
+- [x] [Detalles adicionales sobre el bucle for](22_for_overview.ipynb)
 - [ ] Lists of lists
 
 ### PARTE 7: DICCIONARIOS Y RESUMEN DE CADENAS
