@@ -7,7 +7,7 @@ Haz clic en el botón verde `< > Code` en la parte superior derecha de esta pág
 
 ## Cuadernos traducidos
 
-![68%](https://progress-bar.dev/60) Progreso del libro 25/38 
+![68%](https://progress-bar.dev/68) Progreso del libro 25/38 
 
 ![60%](https://progress-bar.dev/60) Progreso de la traducción 22/38 
 
