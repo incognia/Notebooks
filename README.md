@@ -12,8 +12,8 @@ Haz clic en el botón verde `< > Code` en la parte superior derecha de esta pág
 ![61%](https://progress-bar.dev/61) Progreso de la traducción 23/38 
 
 ### PARTE 1: CREANDO LOS FUNDAMENTOS
-- [x] [Texto, preguntas y arte](01_string_input_print.ipynb)
-- [x] [Eventos y favoritos](02_variables.ipynb)
+1. [x] [Texto, preguntas y arte](01_string_input_print.ipynb)
+2. [x] [Eventos y favoritos](02_variables.ipynb)
 
 ### PARTE 2: INTRODUCCIÓN A LAS LISTAS Y LAS SENTENCIAS IF/ELSE
 - [x] [En una librería](03_list_if_in_else.ipynb)
