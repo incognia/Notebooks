@@ -31,10 +31,15 @@ Haz clic en el botón verde `< > Code` en la parte superior derecha de esta pág
 
 ### PARTE 3: INTRODUCCIÓN AL BUCLE FOR
  8. [x] [Los platillos favoritos de mis amigos](08_for_range.ipynb)
+        <br>*`for` ... `in` `range()`*
  9. [x] [En el zoológico](09_for_loop_if_equals.ipynb)
+        <br>*Bucle `for` con `if`... `==` ... / `else`*
 10. [x] [¿Dónde están mis guantes?](10_for_search.ipynb)
+        <br>*Bucle `for` para buscar*
 11. [x] [Limpiando la lista de correo](11_for_change_list.ipynb)
+        <br>*Bucle `for` para cambiar elementos de la lista*
 12. [x] [¡Qué desorden en la librería!](12_for_create_list.ipynb)
+        <br>*Bucle `for` para crear nuevas listas*
 
 ### PARTE 4: NÚMEROS Y ALGORITMOS
 13. [x] [Implementando una calculadora](13_numbers.ipynb)
