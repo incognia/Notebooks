@@ -44,7 +44,7 @@ Haz clic en el botón verde `< > Code` en la parte superior derecha de esta pág
 ### PARTE 6: ENFOQUE EN LAS LISTAS Y EL BUCLE FOR
 - [x] [Visión general de las listas](21_list_overview.ipynb)
 - [x] [Detalles adicionales sobre el bucle for](22_for_overview.ipynb)
-- [x] [Lists of lists](23_list_of_lists.ipynb)
+- [x] [Lista of listas](23_list_of_lists.ipynb)
 
 ### PARTE 7: DICCIONARIOS Y RESUMEN DE CADENAS
 - [ ] Inventory at the bookstore
