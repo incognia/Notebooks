@@ -47,9 +47,10 @@ Haz clic en el botón verde `< > Code` en la parte superior derecha de esta pág
 - [x] [Lista de listas](23_list_of_lists.ipynb)
 
 ### PARTE 7: DICCIONARIOS Y RESUMEN DE CADENAS
-- [ ] Inventory at the bookstore
-- [ ] Trip to Switzerland
+- [ ] [Inventory at the English bookstore](24_dictionaries.ipynb)
+- [ ] [Trip to Switzerland](25_dictionary_list.ipynb)
 - [ ] Counting, compressing, and sorting
+- [ ] Overview of strings
 
 ### PARTE 8: FUNCIONES
 - [ ] Stationary for a party
