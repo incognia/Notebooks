@@ -13,6 +13,7 @@ Haz clic en el botón verde `< > Code` en la parte superior derecha de esta pág
 
 ### PARTE 1: CREANDO LOS FUNDAMENTOS
  1. [x] [Texto, preguntas y arte](01_string_input_print.ipynb)
+        <br>*Cadenas de caracteres, `input()` y `print()`*
  2. [x] [Eventos y favoritos](02_variables.ipynb)
 
 ### PARTE 2: INTRODUCCIÓN A LAS LISTAS Y LAS SENTENCIAS IF/ELSE
@@ -30,7 +31,7 @@ Haz clic en el botón verde `< > Code` en la parte superior derecha de esta pág
 12. [x] [¡Qué desorden en la librería!](12_for_create_list.ipynb)
 
 ### PARTE 4: NÚMEROS Y ALGORITMOS
-13. [x] [Implementando una calculadora](13_numbers.ipynb)<br>*Cadenas de caracteres, `input()` y `print()`*
+13. [x] [Implementando una calculadora](13_numbers.ipynb)
 14. [x] [Jugando con números](14_list_of_numbers.ipynb)
 15. [x] [Galletas de la suerte](15_random.ipynb)
 16. [x] [Piedra, papel, tijeras](16_intro_to_algos.ipynb)
