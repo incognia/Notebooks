@@ -15,13 +15,19 @@ Haz clic en el botón verde `< > Code` en la parte superior derecha de esta pág
  1. [x] [Texto, preguntas y arte](01_string_input_print.ipynb)
         <br>*Cadenas de caracteres, `input()` y `print()`*
  2. [x] [Eventos y favoritos](02_variables.ipynb)
+        <br>*Variables y concatenación de cadenas de texto*
 
 ### PARTE 2: INTRODUCCIÓN A LAS LISTAS Y LAS SENTENCIAS IF/ELSE
  3. [x] [En una librería](03_list_if_in_else.ipynb)
+        <br>*Listas e `if`... `in`... / `else`...*
  4. [x] [Compras de alimentos](04_list_append_remove.ipynb)
+        <br>*Métodos de lista: `.append()` y `.remove()`*
  5. [x] [Personalizando el menú](05_list_index_pop_insert.ipynb)
+        <br>*Métodos de lista: `.index()`, `.pop()` e `.insert()`*
  6. [x] [Viajando por todo el mundo](06_list_slicing.ipynb)
+        <br>*Segmentación de listas*
  7. [x] [Sentidos, planetas y una casa](07_list_slicing_use.ipynb)
+        <br>*Cambiar, añadir y eliminar elementos de una lista usando segmentación*
 
 ### PARTE 3: INTRODUCCIÓN AL BUCLE FOR
  8. [x] [Los platillos favoritos de mis amigos](08_for_range.ipynb)
