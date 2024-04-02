@@ -70,7 +70,8 @@ Haz clic en el botón verde `< > Code` en la parte superior derecha de esta pág
         <br>*Segmentación, bucles `for` anidados y aplanado*
 
 ### PARTE 7: DICCIONARIOS Y RESUMEN DE CADENAS
-24. [ ] [Inventory at the English bookstore](24_dictionaries.ipynb)
+24. [x] [Inventario en la librería española](24_dictionaries.ipynb)
+        <br>*Diccionarios*
 25. [ ] [Trip to Switzerland](25_dictionary_list.ipynb)
 26. [ ] Counting, compressing, and sorting
 27. [ ] Overview of strings
