@@ -9,7 +9,7 @@ Haz clic en el botón verde `< > Code` en la parte superior derecha de esta pág
 
 ![68%](https://progress-bar.dev/68) Progreso del libro 25/38 
 
-![61%](https://progress-bar.dev/61) Progreso de la traducción 23/38 
+![64%](https://progress-bar.dev/64) Progreso de la traducción 24/38 
 
 ### PARTE 1: CREANDO LOS FUNDAMENTOS
  1. [x] [Texto, preguntas y arte](01_string_input_print.ipynb)
