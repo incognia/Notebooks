@@ -9,7 +9,7 @@ Haz clic en el botón verde `< > Code` en la parte superior derecha de esta pág
 
 ![68%](https://progress-bar.dev/68) Progreso del libro 25/38 
 
-![64%](https://progress-bar.dev/64) Progreso de la traducción 24/38 
+![68%](https://progress-bar.dev/68) Progreso de la traducción 25/38 
 
 ### PARTE 1: CREANDO LOS FUNDAMENTOS
  1. [x] [Texto, preguntas y arte](01_string_input_print.ipynb)
@@ -72,7 +72,8 @@ Haz clic en el botón verde `< > Code` en la parte superior derecha de esta pág
 ### PARTE 7: DICCIONARIOS Y RESUMEN DE CADENAS
 24. [x] [Inventario en la librería española](24_dictionaries.ipynb)
         <br>*Diccionarios*
-25. [ ] [Trip to Switzerland](25_dictionary_list.ipynb)
+25. [x] [Viaje a Suiza](25_dictionary_list.ipynb)
+        <br>*Diccionario con listas como valores*
 26. [ ] Counting, compressing, and sorting
 27. [ ] Overview of strings
 
